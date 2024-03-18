@@ -18,6 +18,7 @@ La regresión lineal es un modelo estadístico que busca modelar la relación en
    ```bash
    cd proyecto-regresion-lineal
 
-
-
+3. Crea el entorno adecuado con el comando:
    
+   ```bash
+   conda env create -f environment.yml
