@@ -21,4 +21,22 @@ La regresión lineal es un modelo estadístico que busca modelar la relación en
 3. Crea el entorno adecuado con el comando:
    
    ```bash
-   conda env create -f environment.yml
+   conda env create -f proyecto1_env.yml
+
+4. Ejecuta el notebook con:
+   ```bash
+   jupyter notebook 22003085_LuisTun_Proyecto1.ipynb
+
+## Video
+
+El video explicativo del presente proyecto se encuentra en [Video](https://www.youtube.com/)
+
+
+## Créditos
+
+Este proyecto fue desarrollado por Luis Tun.
+
+## Licencia
+
+   
+Este proyecto está bajo la Licencia MIT.
