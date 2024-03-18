@@ -12,8 +12,11 @@ La regresión lineal es un modelo estadístico que busca modelar la relación en
 
    ```bash
    git clone https://github.com/luistunag/Proyecto1.git
+   
+2. Navega al directorio del proyecto:
+   
+   ```cd proyecto-regresion-lineal
 
-2. Ejecuta el 
 
 
    
