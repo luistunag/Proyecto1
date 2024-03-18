@@ -15,7 +15,8 @@ La regresión lineal es un modelo estadístico que busca modelar la relación en
    
 2. Navega al directorio del proyecto:
    
-   ```cd proyecto-regresion-lineal
+   ```bash
+   cd proyecto-regresion-lineal
 
 
 
