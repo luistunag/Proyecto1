@@ -16,7 +16,7 @@ La regresión lineal es un modelo estadístico que busca modelar la relación en
 2. Navega al directorio del proyecto:
    
    ```bash
-   cd proyecto-regresion-lineal
+   cd Proyecto1
 
 3. Crea el entorno adecuado con el comando:
    
@@ -29,7 +29,7 @@ La regresión lineal es un modelo estadístico que busca modelar la relación en
 
 ## Video
 
-El video explicativo del presente proyecto se encuentra en [Video](https://www.youtube.com/)
+El video explicativo del presente proyecto se encuentra en [Video](https://youtu.be/aMdNlpPY_Hc)
 
 
 ## Créditos
