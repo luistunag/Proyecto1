@@ -29,7 +29,7 @@ La regresión lineal es un modelo estadístico que busca modelar la relación en
 
 ## Video
 
-El video explicativo del presente proyecto se encuentra en [Video](https://youtu.be/aMdNlpPY_Hc)
+El video explicativo del presente proyecto se encuentra en [Video](https://youtu.be/XHu61uItySo)
 
 
 ## Créditos
